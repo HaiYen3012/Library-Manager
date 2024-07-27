@@ -60,7 +60,7 @@ The database schema consists of the following tables:
 ## Scripts
 * `DbLibraryManager.sql`: Creates all the necessary tables, triggers, functions, Procedures, Views and Roles for the library management system.
 
-*`ScriptsDB_QuanLyThuVien.SQL`: Contains SQL Queries for the library management system.
+* `ScriptsDB_QuanLyThuVien.SQL`: Contains SQL Queries for the library management system.
 
 ## Contributing
 
